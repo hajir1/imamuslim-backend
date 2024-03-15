@@ -1,0 +1,13 @@
+
+{
+  "name": "Quran API",
+  "description": "Quran API with media audio.",
+  "repository": "https://github.com/gadingnst/quran-api.git",
+  "stack": "heroku-18",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "keywords": ["node", "express", "static", "quran", "quran-api", "api", "json"]
+}
